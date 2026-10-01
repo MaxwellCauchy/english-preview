@@ -1,0 +1,60 @@
+[
+  {
+    "id": "punkt_tab",
+    "name": "Punkt Tokenizer Models",
+    "author": "Jan Strunk",
+    "languages": "Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Italian, Malayalam, Norwegian, Polish, Portuguese, Russian, Slovene, Spanish, Swedish, Turkish",
+    "unzip": "1",
+    "unzipped_size": "10885330",
+    "size": "4319076",
+    "checksum": "27ea9ee08fe27fe4484e4c5585cce748",
+    "sha256_checksum": "e57f64187974277726a3417ca6f181ec5403676c717672eef6a748a7b20e0106",
+    "subdir": "tokenizers",
+    "url": "https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/tokenizers/punkt_tab.zip",
+    "download_sha256": "e57f64187974277726a3417ca6f181ec5403676c717672eef6a748a7b20e0106"
+  },
+  {
+    "id": "stopwords",
+    "name": "Stopwords Corpus",
+    "webpage": "ftp://ftp.cs.cornell.edu/pub/smart/english.stop and http://snowball.tartarus.org/ and others",
+    "unzip": "1",
+    "unzipped_size": "89446",
+    "size": "37733",
+    "checksum": "16da2726eaacf9c9982f68b054445604",
+    "sha256_checksum": "48c0e52d8b52546e827f53761fb30300c0ab94f70660d28bd65ba0a86270946b",
+    "subdir": "corpora",
+    "url": "https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/stopwords.zip",
+    "download_sha256": "48c0e52d8b52546e827f53761fb30300c0ab94f70660d28bd65ba0a86270946b"
+  },
+  {
+    "id": "averaged_perceptron_tagger_eng",
+    "name": "Averaged Perceptron Tagger (JSON)",
+    "languages": "English",
+    "license": "MIT License",
+    "webpage": "https://github.com/sloria/textblob-aptagger",
+    "unzip": "1",
+    "unzipped_size": "5703817",
+    "size": "1539115",
+    "checksum": "729e2255f83045670374180de9bdb613",
+    "sha256_checksum": "6025f530624335c67d6547d44757b357b4e79bae030a0383e9887a92c1718f0b",
+    "subdir": "taggers",
+    "url": "https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/taggers/averaged_perceptron_tagger_eng.zip",
+    "download_sha256": "6025f530624335c67d6547d44757b357b4e79bae030a0383e9887a92c1718f0b"
+  },
+  {
+    "id": "wordnet",
+    "name": "WordNet",
+    "version": "3.0",
+    "license": "Permission to use, copy, modify and distribute this software and database and its documentation for any purpose and without fee or royalty is hereby granted, provided that you agree to comply with the following copyright notice and statements, including the disclaimer, and that the same appear on ALL copies of the software, database and documentation, including modifications that you make for internal use or for distribution.... [see webpage for full license]",
+    "copyright": "WordNet 3.0 Copyright 2006 by Princeton University.  All rights reserved.",
+    "webpage": "http://wordnet.princeton.edu/",
+    "unzip": "0",
+    "unzipped_size": "36353991",
+    "size": "10775600",
+    "checksum": "b3f38606f626e54c6f060548546f71f0",
+    "sha256_checksum": "cbda5ea6eef7f36a97a43d4a75f85e07fccbb4f23657d27b4ccbc93e2646ab59",
+    "subdir": "corpora",
+    "url": "https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/wordnet.zip",
+    "download_sha256": "cbda5ea6eef7f36a97a43d4a75f85e07fccbb4f23657d27b4ccbc93e2646ab59"
+  }
+]

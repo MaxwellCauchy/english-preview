@@ -1,0 +1,916 @@
+{
+  "version": "0.4",
+  "entries": [
+    {
+      "phrase": "account for",
+      "meaning_cn": "解释；占……比例",
+      "patterns": [
+        "account for"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "according to",
+      "meaning_cn": "根据",
+      "patterns": [
+        "according to"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "adapt to",
+      "meaning_cn": "适应",
+      "patterns": [
+        "adapt to"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "adjust to",
+      "meaning_cn": "调整以适应",
+      "patterns": [
+        "adjust to"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "as a result",
+      "meaning_cn": "因此",
+      "patterns": [
+        "as a result"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "as a result of",
+      "meaning_cn": "由于",
+      "patterns": [
+        "as a result of"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "as well as",
+      "meaning_cn": "以及",
+      "patterns": [
+        "as well as"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "at the same time",
+      "meaning_cn": "与此同时",
+      "patterns": [
+        "at the same time"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "be aware of",
+      "meaning_cn": "意识到",
+      "patterns": [
+        "be aware of"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "be capable of",
+      "meaning_cn": "有能力做",
+      "patterns": [
+        "be capable of"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "be concerned about",
+      "meaning_cn": "关心；担忧",
+      "patterns": [
+        "be concerned about"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "be different from",
+      "meaning_cn": "与……不同",
+      "patterns": [
+        "be different from"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "be familiar with",
+      "meaning_cn": "熟悉",
+      "patterns": [
+        "be familiar with"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "be likely to",
+      "meaning_cn": "可能会",
+      "patterns": [
+        "be likely to"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "be responsible for",
+      "meaning_cn": "对……负责",
+      "patterns": [
+        "be responsible for"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "be subject to",
+      "meaning_cn": "受……影响或约束",
+      "patterns": [
+        "be subject to"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "be willing to",
+      "meaning_cn": "愿意",
+      "patterns": [
+        "be willing to"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "benefit from",
+      "meaning_cn": "从……中受益",
+      "patterns": [
+        "benefit from"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "bring about",
+      "meaning_cn": "导致；带来",
+      "patterns": [
+        "bring about"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "carry out",
+      "meaning_cn": "执行；开展",
+      "patterns": [
+        "carry out"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "come up with",
+      "meaning_cn": "提出；想出",
+      "patterns": [
+        "come up with"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "compare with",
+      "meaning_cn": "与……比较",
+      "patterns": [
+        "compare with"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "concentrate on",
+      "meaning_cn": "专注于",
+      "patterns": [
+        "concentrate on"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "consist of",
+      "meaning_cn": "由……组成",
+      "patterns": [
+        "consist of"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "contribute to",
+      "meaning_cn": "促成；为……作贡献",
+      "patterns": [
+        "contribute to"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "deal with",
+      "meaning_cn": "处理；应对",
+      "patterns": [
+        "deal with"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "depend on",
+      "meaning_cn": "取决于；依靠",
+      "patterns": [
+        "depend on"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "due to",
+      "meaning_cn": "由于",
+      "patterns": [
+        "due to"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "end up",
+      "meaning_cn": "最终处于；最终做",
+      "patterns": [
+        "end up"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "figure out",
+      "meaning_cn": "弄清楚",
+      "patterns": [
+        "figure out"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "focus on",
+      "meaning_cn": "关注；集中于",
+      "patterns": [
+        "focus on"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "for example",
+      "meaning_cn": "例如",
+      "patterns": [
+        "for example"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "for instance",
+      "meaning_cn": "例如",
+      "patterns": [
+        "for instance"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "give up",
+      "meaning_cn": "放弃",
+      "patterns": [
+        "give up"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "in addition",
+      "meaning_cn": "此外",
+      "patterns": [
+        "in addition"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "in addition to",
+      "meaning_cn": "除……之外还",
+      "patterns": [
+        "in addition to"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "in contrast",
+      "meaning_cn": "相比之下",
+      "patterns": [
+        "in contrast"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "in contrast to",
+      "meaning_cn": "与……形成对比",
+      "patterns": [
+        "in contrast to"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "in fact",
+      "meaning_cn": "事实上",
+      "patterns": [
+        "in fact"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "in order to",
+      "meaning_cn": "为了",
+      "patterns": [
+        "in order to"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "in spite of",
+      "meaning_cn": "尽管",
+      "patterns": [
+        "in spite of"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "in terms of",
+      "meaning_cn": "就……而言",
+      "patterns": [
+        "in terms of"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "instead of",
+      "meaning_cn": "代替；而不是",
+      "patterns": [
+        "instead of"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "lead to",
+      "meaning_cn": "导致",
+      "patterns": [
+        "lead to"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "look forward to",
+      "meaning_cn": "期待",
+      "patterns": [
+        "look forward to"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "make use of",
+      "meaning_cn": "利用",
+      "patterns": [
+        "make use of"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "on the other hand",
+      "meaning_cn": "另一方面",
+      "patterns": [
+        "on the other hand"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "pay attention to",
+      "meaning_cn": "注意",
+      "patterns": [
+        "pay attention to"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "play a role in",
+      "meaning_cn": "在……中发挥作用",
+      "patterns": [
+        "play a role in"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "point out",
+      "meaning_cn": "指出",
+      "patterns": [
+        "point out"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "put forward",
+      "meaning_cn": "提出",
+      "patterns": [
+        "put forward"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "refer to",
+      "meaning_cn": "指的是；提及",
+      "patterns": [
+        "refer to"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "regardless of",
+      "meaning_cn": "不管；不顾",
+      "patterns": [
+        "regardless of"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "rely on",
+      "meaning_cn": "依赖",
+      "patterns": [
+        "rely on"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "result from",
+      "meaning_cn": "由……引起",
+      "patterns": [
+        "result from"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "result in",
+      "meaning_cn": "导致",
+      "patterns": [
+        "result in"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "set up",
+      "meaning_cn": "建立；设置",
+      "patterns": [
+        "set up"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "take advantage of",
+      "meaning_cn": "利用",
+      "patterns": [
+        "take advantage of"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "take into account",
+      "meaning_cn": "考虑到",
+      "patterns": [
+        "take into account",
+        "take {gap} into account"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "take part in",
+      "meaning_cn": "参加",
+      "patterns": [
+        "take part in"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "take place",
+      "meaning_cn": "发生",
+      "patterns": [
+        "take place"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "tend to",
+      "meaning_cn": "倾向于",
+      "patterns": [
+        "tend to"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "turn out",
+      "meaning_cn": "结果是",
+      "patterns": [
+        "turn out"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "with regard to",
+      "meaning_cn": "关于",
+      "patterns": [
+        "with regard to"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "work out",
+      "meaning_cn": "解决；计算出",
+      "patterns": [
+        "work out"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "not only … but also",
+      "meaning_cn": "不仅……而且",
+      "patterns": [
+        "not only {gap} but also"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "so … that",
+      "meaning_cn": "如此……以至于",
+      "patterns": [
+        "so {gap} that"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "too … to",
+      "meaning_cn": "太……而不能",
+      "patterns": [
+        "too {gap} to"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "such … that",
+      "meaning_cn": "如此……以至于",
+      "patterns": [
+        "such {gap} that"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    },
+    {
+      "phrase": "whether … or",
+      "meaning_cn": "无论……还是",
+      "patterns": [
+        "whether {gap} or"
+      ],
+      "applicable_levels": [
+        "cet4",
+        "cet6"
+      ],
+      "exam_levels": [],
+      "source": "项目作者整理／释义自编，通用教学短语；未标官方考试等级"
+    }
+  ]
+}

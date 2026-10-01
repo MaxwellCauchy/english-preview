@@ -1,0 +1,25 @@
+{
+  "version": "0.4",
+  "dictionary_source": "https://github.com/skywind3000/ECDICT",
+  "commit": "bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+  "license": "MIT; 原许可证保留在 resources/dictionary/ECDICT_LICENSE.txt",
+  "wordlists": {
+    "cet4": {
+      "records": 3849,
+      "sha256": "290437e79363a1be3c0c71c0470692111560bf1e165c488e5f6e1488eca4b1a5",
+      "meaning": "词典历史考试标签，不是最新官方大纲，未使用或声称真题考频"
+    },
+    "cet6": {
+      "records": 5407,
+      "sha256": "9cad082635426593ca204c5cc5dbbadab39d237e4a029863af89820c753d5cac",
+      "meaning": "词典历史考试标签，不是最新官方大纲，未使用或声称真题考频"
+    }
+  },
+  "phrases": {
+    "source": "项目作者整理的通用学习短语，释义为本项目编写；不含官方考试等级或考频标注",
+    "applicability": "四级和六级均可使用，属于教学适用范围，不代表考试归属",
+    "records": 70,
+    "license": "CC0-1.0；见 PHRASES_LICENSE.txt",
+    "sha256": "01b7ffe3e9fb63515f4c70fa37e2168134fdecd31077974c375da86cb64d2ca0"
+  }
+}

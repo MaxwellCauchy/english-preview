@@ -1,0 +1,12 @@
+Phrase resource provenance
+
+The entries and Chinese learning glosses in phrases.json were composed for this
+project. They are general pedagogical expressions, not an official CET syllabus,
+not a historical exam-frequency dataset, and do not carry official exam levels.
+
+To the extent copyright applies to this project's original phrasing and selection,
+these contributions are offered under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/
+
+The ECDICT-derived CET word CSV files retain the upstream MIT license separately
+at resources/dictionary/ECDICT_LICENSE.txt; CC0 does not replace that license.

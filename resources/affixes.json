@@ -1,0 +1,7 @@
+{
+  "note": "按字母开头分组不等于词源前缀。提示只使用确认过的例词，不自动拆分任意单词。",
+  "hints": [
+    {"affix": "ab-", "meaning": "away from；离开、偏离（词源记忆提示）", "examples": ["aboral", "abnormal", "absent"], "source": "https://www.ahdictionary.com/word/search.html?q=ab-"},
+    {"affix": "ad-", "meaning": "to / toward；朝向，也可表示邻近（词源记忆提示）", "examples": ["adapt", "adhere", "adjacent", "adrenal"], "source": "https://www.ahdictionary.com/word/search.html?q=ad-"}
+  ]
+}

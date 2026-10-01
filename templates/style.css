@@ -1,0 +1,26 @@
+:root { color-scheme: light; --ink: #17243a; --muted: #63728a; --accent: #2563eb; }
+* { box-sizing: border-box; }
+body { margin: 0; background: #eef2f7; color: var(--ink); font: 16px/1.7 "Microsoft YaHei", "PingFang SC", system-ui, sans-serif; }
+main { max-width: 1040px; margin: 36px auto; padding: 36px; background: white; border-radius: 16px; }
+header { border-bottom: 3px solid var(--accent); padding-bottom: 16px; }
+.eyebrow { color: var(--accent); font-size: 13px; letter-spacing: .08em; }
+h1 { font-size: 30px; line-height: 1.4; margin: 8px 0; overflow-wrap: anywhere; }
+h2 { font-size: 22px; margin: 30px 0 12px; }
+h3 { font-size: 16px; margin-top: 0; }
+.overview { padding: 16px; background: #eef4ff; border-radius: 8px; }
+.table-wrap { overflow-x: auto; }
+table { width: 100%; border-collapse: collapse; font-size: 14px; }
+th, td { text-align: left; padding: 12px; border-bottom: 1px solid #dce4ef; vertical-align: top; }
+th { background: #eef4ff; color: #214b9a; }
+td { white-space: pre-line; overflow-wrap: anywhere; }
+.card { padding: 18px; margin: 12px 0; border: 1px solid #dce4ef; border-radius: 8px; break-inside: avoid; }
+.original { font-family: Georgia, serif; font-size: 17px; }
+.muted, footer { color: var(--muted); font-size: 14px; }
+.checklist { list-style: none; padding: 0; }
+.checklist li { margin: 8px 0; }
+input[type=checkbox] { accent-color: var(--accent); width: 16px; height: 16px; }
+aside { padding: 12px 20px; margin-top: 28px; background: #fff8e7; border-radius: 8px; }
+aside h2 { margin-top: 6px; }
+footer { border-top: 1px solid #dce4ef; margin-top: 30px; padding-top: 16px; }
+@media (max-width: 680px) { main { margin: 0; border-radius: 0; padding: 20px; } h1 { font-size: 24px; } }
+@media print { body { background: white; } main { max-width: none; margin: 0; padding: 0; } header, h2, h3 { break-after: avoid; } }

@@ -1,0 +1,39 @@
+.venv/
+__pycache__/
+*.pyc
+output/read-*/
+tests/fixture_image.png
+resources/dictionary/ecdict.csv
+
+resources/models/
+output/translation_cache.sqlite3
+output/study_preferences.json
+
+# Python 缓存与虚拟环境
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 运行结果、翻译缓存与本地设置
+output/
+
+# 本地翻译模型
+resources/models/
+
+# 完整离线词典
+resources/dictionary/*.csv
+stardict.csv
+ecdict.csv
+
+# 本地敏感配置
+.env
+.env.*
+!.env.example
+
+# 下载与备份文件
+*.7z
+*.zip
+*.bak
+
+/backup_v*/

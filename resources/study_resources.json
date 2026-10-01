@@ -1,0 +1,37 @@
+{
+  "prepared_date": "2026-09-30",
+  "ecdict_commit": "bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b",
+  "ecdict_url": "https://raw.githubusercontent.com/skywind3000/ECDICT/bc015ed2e24a7abef49fc6dbbb7fe32c1dadaf8b/stardict.7z",
+  "upstream_rows": 3402564,
+  "ecdict_rows": 1146124,
+  "ecdict_unique_words": 1146124,
+  "upstream_csv_sha256": "88fce01e0a30524192a62e363d47eeb036fa17820d5826121b3b419fd67a3996",
+  "derivation": "保留分析器可识别的单词、连字符词、撇号词和缩写；去除未统计标注的自动派生词；不包含短语条目。保留上游大小写条目顺序，查词时按小写匹配，规范化重复项以后者优先。",
+  "ecdict_sha256": "13f866ca6a021242fcffbf592c1b0e48875787aa03ecf20fc0a8d503c3f4cd2f",
+  "ecdict_license": "MIT（保留上游原许可证）",
+  "awl_url": "https://www.wgtn.ac.nz/lals/resources/academicwordlist/awl-headwords/Headwords-of-the-Academic-Word-List.pdf",
+  "awl_original_sha256": "66a54df3d2881921d42704d20e2524c36c2c454fcf3f816170eb06036cf6209b",
+  "awl_attribution": "Averil Coxhead, Victoria University of Wellington, Academic Word List (2000)",
+  "wordlists": {
+    "top2000.txt": {
+      "words": 2000,
+      "method": "由 ECDICT 的正值 bnc 排名排序，取前 2000 个不同拼写；不是词族表。",
+      "sha256": "3fe7df42aeddaed4f2e0566ffac45cd5d863ad47b3520c0b7a139746d824318e"
+    },
+    "top3000.txt": {
+      "words": 3000,
+      "method": "由 ECDICT 的正值 bnc 排名排序，取前 3000 个不同拼写；不是 Oxford 3000。",
+      "sha256": "441fe01da7361872005ba069210418f08a75d115d3b747e619e23e319ffbcd6b"
+    },
+    "awl.txt": {
+      "words": 570,
+      "method": "Averil Coxhead AWL：570 个词族的 headwords；不是全部派生词。",
+      "sha256": "393545190cb95e4d9fb01be6df30b856d4395d8cd121f213130b117b254ba0a7"
+    },
+    "cet4_cet6.txt": {
+      "words": 5805,
+      "method": "ECDICT tag 含 cet4 或 cet6 的不同拼写；不是官方最新考试大纲。",
+      "sha256": "004e67bb0026fcd1633c5a3f0c3a95c2f84f3d7fbf85822c56fe760619ae0f15"
+    }
+  }
+}
